@@ -13,8 +13,8 @@ Some key notes:
 2. Stability Mechanism (Minting) is  Algorithmic (Decentralized)
    -People can only mint the stablecoin with enough collateral(coded)
 3. Collateral Allowed: Exogenous (Crypto)
-  1. wETH
-  2. wBTC
+  - wETH
+  - wBTC
 
 
 
@@ -54,7 +54,7 @@ Some key notes:
 
 ```
 git clone https://github.com/FrankezeCode/DeFi-Stablecoin
-cd foundry-defi-stablecoin-cu
+cd DeFi-Stablecoin
 forge build
 ```
 
